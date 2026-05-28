@@ -20,6 +20,7 @@ authors:
 version: 0.1.0
 date-released: 2026-05-28
 license: CC-BY-4.0
+doi: "10.5281/zenodo.20436088"
 repository-code: "https://github.com/semanticintent/semantic-intent-governance-primitive"
 url: "https://semanticintent.dev/papers/semantic-intent-governance-primitive"
 keywords:
