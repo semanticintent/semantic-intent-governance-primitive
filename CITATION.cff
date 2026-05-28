@@ -1,0 +1,95 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "Semantic Intent as Governance Primitive for Agentic Systems"
+abstract: >
+  Extends the Semantic Intent as Single Source of Truth thesis (Shatny, 2025)
+  to multi-agent systems. As AI evolves from coding assistants to autonomous
+  agents operating in pipelines, the governance problem changes in kind: multiple
+  stateless agents must coordinate without a human mediating every decision.
+  This paper proposes Semantic Intent as a governance primitive — a cross-agent
+  contract with three required properties: immutability, addressability, and
+  provenance. A working ecosystem of five independently developed tools (Rune
+  Protocol, Wake Intelligence, RECALL, Mere, EMBER) provides convergent empirical
+  evidence that this primitive emerges naturally from practice. Two consequences
+  are examined: authorship attribution as a runtime governance dimension, and
+  generative UI as a derived artifact of a stable semantic contract.
+authors:
+  - family-names: "Shatny"
+    given-names: "Michael"
+    orcid: "https://orcid.org/0009-0006-2011-3258"
+version: 0.1.0
+date-released: 2026-05-28
+license: CC-BY-4.0
+repository-code: "https://github.com/semanticintent/semantic-intent-governance-primitive"
+url: "https://semanticintent.dev/papers/semantic-intent-governance-primitive"
+keywords:
+  - semantic-intent
+  - agentic-systems
+  - governance-primitive
+  - multi-agent-coordination
+  - authorship-attribution
+  - generative-ui
+  - temporal-memory
+  - reactive-binding
+  - immutable-governance
+  - rune-protocol
+  - wake-intelligence
+  - recall
+  - mere
+  - ember
+  - mcp
+  - model-context-protocol
+references:
+  - type: article
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Semantic Intent as Single Source of Truth: Immutable Governance for AI-Assisted Development"
+    year: 2025
+    doi: "10.5281/zenodo.17114972"
+    url: "https://semanticintent.dev/papers/semantic-intent-ssot"
+  - type: article
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Rune Protocol: A Reactive Binding Grammar for Human-AI Collaborative Systems"
+    year: 2026
+    doi: "10.5281/zenodo.20007883"
+    url: "https://github.com/semanticintent/rune-protocol"
+  - type: software
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Wake Intelligence MCP: A Five-Layer Temporal Intelligence Server for AI Agents"
+    year: 2026
+    url: "https://github.com/semanticintent/semantic-wake-intelligence-mcp"
+  - type: software
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "EMBER: A Semantic Intent Language for Legacy System Modernisation"
+    year: 2026
+    doi: "10.5281/zenodo.19751387"
+    url: "https://github.com/semanticintent/ember"
+  - type: software
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Mere: A Workbook Format for Self-Contained Reactive Applications"
+    year: 2026
+    doi: "10.5281/zenodo.19751778"
+    url: "https://github.com/semanticintent/mere"
+  - type: software
+    authors:
+      - family-names: "Shatny"
+        given-names: "Michael"
+        orcid: "https://orcid.org/0009-0006-2011-3258"
+    title: "Strata: A Database Archaeology Methodology for Legacy SQL Systems"
+    year: 2026
+    doi: "10.5281/zenodo.19768151"
+    url: "https://github.com/semanticintent/strata-runtime"
